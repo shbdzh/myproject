@@ -354,12 +354,18 @@ a {
 }
 
 .page-title {
+  padding-left: 60px;
+  margin-top: 40px;
+  margin-bottom: 35px;
   font-family: Gilroy, Arial, sans-serif;
   font-size: 47px;
   line-height: 48px;
 }
 
 .breadcrumbs {
+  padding: 0;
+  padding-left: 60px;
+  margin: 0;
   list-style: none;
 }
 
@@ -372,7 +378,8 @@ a {
 }
 
 .filter {
-  width: 270px;
+  padding-left: 60px;
+  width: 331px;
 }
 
 .filter h2 {
@@ -445,14 +452,14 @@ a {
 }
 
 .catalog {
-  width: 832px;
+  width: 830px;
 }
 
 .catalog-list {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding-left: 72px;
+  padding-left: 73px;
   list-style: none;
 }
 
